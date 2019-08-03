@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schlatplan>
+  <Bauelements>
+    <bauelement Name="LEDcd02b478-f675-44eb-8832-55a6c78fec42" TypeName="LED" X="51" Y="87" />
+    <bauelement Name="Spule003c9a0e-29af-4c13-8f6f-a43e36c48bee" TypeName="Spule" X="119" Y="29" />
+  </Bauelements>
+  <Connections>
+    <Connection StartElement="LEDcd02b478-f675-44eb-8832-55a6c78fec42" EndElement="Spule003c9a0e-29af-4c13-8f6f-a43e36c48bee" />
+  </Connections>
+</Schlatplan>
